@@ -113,5 +113,6 @@ El sistema viene precargado con 10 platos de diferentes stands:
 - Parrilla Argentina
 
 ## Autor
+## Andres Mauricio Quintero Rios
 
 Proyecto desarrollado como práctica de Java Streams y programación funcional.
